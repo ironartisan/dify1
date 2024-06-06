@@ -37,7 +37,7 @@ export default function AccountAbout({
         <div>
           <LogoSite className='mx-auto mb-2' />
           <div className='mb-3 text-center text-xs font-normal text-gray-500'>Version {langeniusVersionInfo?.current_version}</div>
-          <div className='mb-4 text-center text-xs font-normal text-gray-700'>
+          {/* <div className='mb-4 text-center text-xs font-normal text-gray-700'>
             <div>© 2023 LangGenius, Inc., Contributors.</div>
             <div className='text-[#1C64F2]'>
               {
@@ -49,7 +49,7 @@ export default function AccountAbout({
                   </>
               }
             </div>
-          </div>
+          </div> */}
         </div>
         <div className='mb-4 -mx-8 h-[0.5px] bg-gray-200' />
         <div className='flex justify-between items-center'>

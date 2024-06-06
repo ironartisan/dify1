@@ -1,9 +1,9 @@
 const translation = {
-  title: '探索',
+  title: '首页',
   sidebar: {
     discovery: '发现',
     chat: '智聊',
-    workspace: '工作区',
+    workspace: '工作空间',
     action: {
       pin: '置顶',
       unpin: '取消置顶',
@@ -16,12 +16,12 @@ const translation = {
     },
   },
   apps: {
-    title: '探索 Dify 的应用',
+    title: '探索模板应用',
     description: '使用这些模板应用程序，或根据模板自定义您自己的应用程序。',
     allCategories: '推荐',
   },
   appCard: {
-    addToWorkspace: '添加到工作区',
+    addToWorkspace: '添加到工作空间',
     customize: '自定义',
   },
   appCustomize: {

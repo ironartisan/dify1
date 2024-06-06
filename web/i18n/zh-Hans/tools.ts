@@ -19,7 +19,7 @@ const translation = {
     authorized: '已授权',
     setup: '要使用请先授权',
     setupModalTitle: '设置授权',
-    setupModalTitleDescription: '配置凭据后，工作区中的所有成员都可以在编排应用程序时使用此工具。',
+    setupModalTitleDescription: '配置凭据后，工作空间中的所有成员都可以在编排应用程序时使用此工具。',
   },
   includeToolNum: '包含 {{num}} 个工具',
   addTool: '添加工具',
@@ -144,7 +144,7 @@ const translation = {
   toolRemoved: '工具已被移除',
   notAuthorized: '工具未授权',
   howToGet: '如何获取',
-  openInStudio: '在工作室中打开',
+  openInStudio: '在工作空间中打开',
   toolNameUsageTip: '工具调用名称，用于 Agent 推理和提示词',
 }
 
